@@ -177,35 +177,5 @@ npm run build
 1. Install Vercel CLI: `npm i -g vercel`
 2. Deploy: `vercel`
 
-### Deploy to Netlify
-1. Build the project: `npm run build`
-2. Upload the `dist` folder to Netlify
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with React and Vite for fast development
-- Styled with Tailwind CSS for beautiful, responsive design
-- Icons created with custom SVG components
-- S3 integration for reliable cloud storage
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact: [Your Contact Information]
-
----
 
 **Made with ❤️ by Pam Scripts**
